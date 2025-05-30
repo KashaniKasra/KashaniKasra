@@ -61,9 +61,9 @@
 
 ### 📊 GitHub Stats
 
-  <img src="https://streak-stats.demolab.com?user=KashaniKasra&theme=dark&hide_border=true" width="45%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashaniKasra&layout=compact&theme=dark&hide_border=true" width="50%" />
-</p>
+  <img src="https://streak-stats.demolab.com?user=KashaniKasra&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashaniKasra&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+</div>
