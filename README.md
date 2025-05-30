@@ -7,7 +7,7 @@
     I'm always eager to learn, build, and explore new technologies!
 
 - 📬 How to reach me at: [benkasra@gmail.com](mailto:benkasra@gmail.com)  
-- 📄 Know more about my experiences: [RESUME](https://link-to-your-resume.com)
+- 📄 Know more about my experiences: [RESUME](https://github.com/KashaniKasra/KashaniKasra/raw/main/KasraKashani.pdf)
 
 ---
 
