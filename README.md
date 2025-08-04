@@ -21,6 +21,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat)
@@ -58,6 +59,13 @@
 ![PyMongo](https://img.shields.io/badge/PyMongo-47A248?style=flat)
 ![torchvision](https://img.shields.io/badge/torchvision-EE4C2C?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![Watsonx](https://img.shields.io/badge/Watsonx-052FAD?style=flat&logo=ibm&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3B76F0?style=flat&logo=gradio&logoColor=white)
+![BLIP](https://img.shields.io/badge/BLIP-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ---
 
