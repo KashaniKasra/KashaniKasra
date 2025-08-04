@@ -24,6 +24,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat)
 ![Multisim](https://img.shields.io/badge/Multisim-1C1C1C?style=flat)
 ![Modelsim](https://img.shields.io/badge/Modelsim-1C1C1C?style=flat)
