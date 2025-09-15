@@ -80,6 +80,7 @@
 ![Crypto](https://img.shields.io/badge/Crypto-0F172A?style=flat&logo=bitcoin&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-000000?style=flat&logo=web3-dot-js&logoColor=white)
+![Smart Contract](https://img.shields.io/badge/Smart%20Contract-0E76A8?style=flat)
 
 ---
 
