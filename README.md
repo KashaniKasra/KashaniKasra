@@ -75,6 +75,11 @@
 ![Truffle](https://img.shields.io/badge/Truffle-3E2C2C?style=flat&logo=truffle&logoColor=white)
 ![Ganache](https://img.shields.io/badge/Ganache-654321?style=flat)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain-dot-com&logoColor=white)
+![Crypto](https://img.shields.io/badge/Crypto-0F172A?style=flat&logo=bitcoin&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-000000?style=flat&logo=web3-dot-js&logoColor=white)
 
 ---
 
