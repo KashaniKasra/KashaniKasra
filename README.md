@@ -16,6 +16,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/C-272D2D?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Verilog](https://img.shields.io/badge/VerilogHDL-000000?style=flat)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-000000?style=flat)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
@@ -26,6 +27,8 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-2D2D2D?style=flat&logo=remix&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat)
 ![Multisim](https://img.shields.io/badge/Multisim-1C1C1C?style=flat)
 ![Modelsim](https://img.shields.io/badge/Modelsim-1C1C1C?style=flat)
@@ -69,6 +72,9 @@
 ![Gradio](https://img.shields.io/badge/Gradio-3B76F0?style=flat&logo=gradio&logoColor=white)
 ![BLIP](https://img.shields.io/badge/BLIP-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-3E2C2C?style=flat&logo=truffle&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-654321?style=flat)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
 
 ---
 
