@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
