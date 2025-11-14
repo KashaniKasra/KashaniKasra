@@ -4,11 +4,11 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on blockchain systems and smart contracts<br>
-👯‍♂️ I’m looking to collaborate on crypto and compiler-related projects<br>
-🤝 I’m looking for help with advanced Solidity tooling<br>
-🌱 I’m currently learning multi-agent reinforcement learning<br>
-💬 Ask me about smart contracts<br>
+🔭 I’m currently working on blockchain systems and smart contracts<br><br>
+👯‍♂️ I’m looking to collaborate on crypto and compiler-related projects<br><br>
+🤝 I’m looking for help with advanced Solidity tooling<br><br>
+🌱 I’m currently learning multi-agent reinforcement learning<br><br>
+💬 Ask me about smart contracts<br><br>
 ⚡ Fun fact: Over 60% of all smart contracts deployed on Ethereum are never interacted with again after the first 24 hours
 
 ---
