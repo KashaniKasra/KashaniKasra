@@ -3,14 +3,17 @@
 
 ---
 
-### ✨ About Me
-    I'm always eager to learn, build, and explore new technologies!
-
-- 📬 How to reach me at: [benkasra@gmail.com](mailto:benkasra@gmail.com)  
+# 💫 About Me:
+🔭 I’m currently working on blockchain systems and smart contracts<br>
+👯‍♂️ I’m looking to collaborate on crypto and compiler-related projects<br>
+🤝 I’m looking for help with advanced Solidity tooling<br>
+🌱 I’m currently learning multi-agent reinforcement learning<br>
+💬 Ask me about smart contracts<br>
+⚡ Fun fact: Over 60% of all smart contracts deployed on Ethereum are never interacted with again after the first 24 hours
 
 ---
 
-### 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
@@ -84,11 +87,8 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=KashaniKasra&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashaniKasra&layout=compact&theme=dark&hide_border=true" width="48%" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=KashaniKasra&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KashaniKasra&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KashaniKasra&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
