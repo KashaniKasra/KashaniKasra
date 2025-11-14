@@ -27,6 +27,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![mCRL2](https://img.shields.io/badge/mCRL2-00599C?style=flat&logo=buffer&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-2D2D2D?style=flat&logo=remix&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat)
