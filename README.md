@@ -8,7 +8,7 @@
 👯‍♂️ I’m looking to collaborate on crypto and compiler-related projects<br><br>
 🤝 I’m looking for help with advanced Solidity tooling<br><br>
 🌱 I’m currently learning multi-agent reinforcement learning (MARL) and agentic AI<br><br>
-💬 Ask me about smart contracts and MARL<br><br>
+💬 Ask me about smart contracts and compilers<br><br>
 ⚡ Fun fact: Over 60% of all smart contracts deployed on Ethereum are never interacted with again after the first 24 hours
 
 ---
