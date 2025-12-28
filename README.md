@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Kasra Kashani</h1>
-<h3 align="center">Bachelor's Student of Computer Engineering at University of Tehran</h3>
+<h3 align="center">Researcher and Bachelor's Student of Computer Engineering at University of Tehran</h3>
 
 ---
 
