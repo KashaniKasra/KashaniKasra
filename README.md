@@ -55,6 +55,7 @@
 ![Artemis](https://img.shields.io/badge/ActiveMQ%20Artemis-EF2D5E?style=flat&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-Vector%20DB-0A1A2F?style=flat&logo=databricks&logoColor=white)
 ![StarUML](https://img.shields.io/badge/StarUML-1B91F6?style=flat&logo=uml&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
