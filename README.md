@@ -78,7 +78,7 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0B5FFF?style=flat&logo=python&logoColor=white)\
+![LangGraph](https://img.shields.io/badge/LangGraph-0B5FFF?style=flat&logo=python&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-2E8B57?style=flat&logo=python&logoColor=white)
 ![Watsonx](https://img.shields.io/badge/Watsonx-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-3B76F0?style=flat&logo=gradio&logoColor=white)
