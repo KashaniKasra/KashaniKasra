@@ -3,13 +3,17 @@
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on blockchain systems and smart contracts.<br><br>
-👯‍♂️ I’m looking to collaborate on crypto and compiler-related projects.<br><br>
-🤝 I’m looking for help with advanced Solidity tooling.<br><br>
-🌱 I’m currently learning multi-agent reinforcement learning (MARL) and agentic AI.<br><br>
-💬 Ask me about smart contracts and compilers.<br><br>
-⚡ Fun fact: Over 60% of all smart contracts deployed on Ethereum are never interacted with again after the first 24 hours!
+# 💫 About Me
+
+🔐 Interested in Cybersecurity, Blockchain Security, Smart Contracts, Network Security, and Applied Cryptography.
+
+🤖 Exploring Agentic AI, AI-driven systems, and intelligent automation.
+
+⚙️ Enjoy building secure, scalable, and intelligent software systems.
+
+🌱 Continuously learning and experimenting with emerging technologies in Security, Blockchain, and AI.
+
+💬 Always open to discussing cybersecurity, blockchain technologies, smart contracts, AI, and related research topics.
 
 ---
 
