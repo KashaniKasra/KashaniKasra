@@ -49,11 +49,10 @@
 
 ### 🧰 Productivity & Documentation
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Amadeus](https://img.shields.io/badge/Amadeus-1E88E5?style=flat&logo=airplane&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-1B91F6?style=flat&logo=uml&logoColor=white)
 
 ---
 
@@ -63,29 +62,29 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-5B2D8B?style=flat&logo=nvidia&logoColor=white)
 ![BLIP](https://img.shields.io/badge/BLIP-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0B5FFF?style=flat&logo=python&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-2E8B57?style=flat&logo=python&logoColor=white)
 ![Watsonx](https://img.shields.io/badge/Watsonx-052FAD?style=flat&logo=ibm&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-4CAF50?style=flat&logo=google&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3B76F0?style=flat&logo=gradio&logoColor=white)
 
 ---
 
 ### 📊 Data Science & Analytics
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-69B3A2?style=flat)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 ---
 
@@ -93,7 +92,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![LanceDB](https://img.shields.io/badge/LanceDB-0A1A2F?style=flat&logo=databricks&logoColor=white)
-![PyMongo](https://img.shields.io/badge/PyMongo-47A248?style=flat)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka)
 ![Artemis](https://img.shields.io/badge/ActiveMQ%20Artemis-EF2D5E?style=flat&logo=apache&logoColor=white)
 
@@ -104,7 +102,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-3B76F0?style=flat&logo=gradio&logoColor=white)
 
 ---
 
@@ -130,7 +127,6 @@
 ![ANTLR](https://img.shields.io/badge/ANTLR-EE0000?style=flat&logo=antlr&logoColor=white)
 ![Joern](https://img.shields.io/badge/Joern-000000?style=flat&logo=graphviz&logoColor=white)
 ![mCRL2](https://img.shields.io/badge/mCRL2-00599C?style=flat&logo=buffer&logoColor=white)
-![StarUML](https://img.shields.io/badge/StarUML-1B91F6?style=flat&logo=uml&logoColor=white)
 
 ---
 
