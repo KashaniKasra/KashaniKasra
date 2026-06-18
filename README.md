@@ -34,12 +34,26 @@
 
 ---
 
-### 🌐 Web & Backend Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-3B76F0?style=flat&logo=gradio&logoColor=white)
+### ⛓️ Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain-dot-com&logoColor=white)
+![Crypto](https://img.shields.io/badge/Crypto-0F172A?style=flat&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-000000?style=flat&logo=web3-dot-js&logoColor=white)
+![Smart Contract](https://img.shields.io/badge/Smart%20Contract-0E76A8?style=flat)
+![Remix](https://img.shields.io/badge/Remix-2D2D2D?style=flat&logo=remix&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-3E2C2C?style=flat&logo=truffle&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-654321?style=flat)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
+
+---
+
+### 🧰 Productivity & Documentation
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Amadeus](https://img.shields.io/badge/Amadeus-1E88E5?style=flat&logo=airplane&logoColor=white)
 
 ---
 
@@ -85,6 +99,15 @@
 
 ---
 
+### 🌐 Web & Backend Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3B76F0?style=flat&logo=gradio&logoColor=white)
+
+---
+
 ### ☁️ DevOps & Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -108,29 +131,6 @@
 ![Joern](https://img.shields.io/badge/Joern-000000?style=flat&logo=graphviz&logoColor=white)
 ![mCRL2](https://img.shields.io/badge/mCRL2-00599C?style=flat&logo=buffer&logoColor=white)
 ![StarUML](https://img.shields.io/badge/StarUML-1B91F6?style=flat&logo=uml&logoColor=white)
-
----
-
-### ⛓️ Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain-dot-com&logoColor=white)
-![Crypto](https://img.shields.io/badge/Crypto-0F172A?style=flat&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-000000?style=flat&logo=web3-dot-js&logoColor=white)
-![Smart Contract](https://img.shields.io/badge/Smart%20Contract-0E76A8?style=flat)
-![Remix](https://img.shields.io/badge/Remix-2D2D2D?style=flat&logo=remix&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-3E2C2C?style=flat&logo=truffle&logoColor=white)
-![Ganache](https://img.shields.io/badge/Ganache-654321?style=flat)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
-
----
-
-### 🧰 Productivity & Documentation
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Amadeus](https://img.shields.io/badge/Amadeus-1E88E5?style=flat&logo=airplane&logoColor=white)
 
 ---
 
