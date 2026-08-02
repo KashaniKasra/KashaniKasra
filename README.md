@@ -5,15 +5,15 @@
 
 # 💫 About Me
 
-🔐 Interested in Cybersecurity, Blockchain Security, Smart Contracts, Network Security, and Applied Cryptography.
+🔐 Interested in  Blockchains, Blockchain Security, Smart Contracts,  Computer Network, and Network Security.
 
 🤖 Exploring Agentic AI, AI-driven systems, and intelligent automation.
 
 ⚙️ Enjoy building secure, scalable, and intelligent software systems.
 
-🌱 Continuously learning and experimenting with emerging technologies in Security, Blockchain, and AI.
+🌱 Continuously learning and experimenting with emerging technologies in Blockchain, Computer Network, and AI.
 
-💬 Always open to discussing cybersecurity, blockchain technologies, smart contracts, AI, and related research topics.
+💬 Always open to discussing blockchain technologies, smart contracts, computer network, AI, and related research topics.
 
 ---
 
